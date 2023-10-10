@@ -1,4 +1,4 @@
-# Advanced Machine Learning Projects
+# Optimization Projects
 
 Welcome to my repository for projects completed during my Optimization class at the University of Texas at Austin. Here, you'll find a collection of projects that demonstrate various Optimization techniques and concepts.
 
